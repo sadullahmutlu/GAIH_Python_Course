@@ -3,7 +3,6 @@
 
 **Course Date:** 06.07.1998  
 **Name:** Sadullah
-
 **Surname:** Mutlu  
 **Email:** sadullahmutlu@gmail.com  
 
@@ -13,11 +12,7 @@
 Ödevleri ve Eğitim sonunda verilmiş olan Final Ödevleri
 
 ## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
+
 ---
 
 ### Certification
