@@ -2,9 +2,9 @@
 ![](img/newlogo.png)
 
 **Course Date:** 08.03.2021  
-**Name:** Mert  
-**Surname:** Cobanov  
-**Email:** mertcobanov@gmail.com  
+**Name:** Sadullah  
+**Surname:** Mutlu  
+**Email:** sadullahmutlu760@gmail.com  
 
 **Note:** Kodların Hepsi  .ipynb formatında jupyter lab'dan yazılmıştır.
 
