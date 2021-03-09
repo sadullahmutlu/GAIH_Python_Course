@@ -3,7 +3,7 @@
 
 **Course Date:** 08.03.2021  
 **Name:** Sadullah
-**Surname:** Mutlu  
+**Surname:** Mutlu 
 **Email:** sadullahmutlu@gmail.com  
 
 **Note:** Kodların Hepsi  .ipynb formatında jupyter lab'dan yazılmıştır.
