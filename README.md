@@ -1,10 +1,10 @@
-# GAIH Student Repo Example
+# Global AI Hub Python Course Repository
 ![](img/newlogo.png)
 
-**Course Date:** 06.07.1998  
-**Name:** Sadullah
+**Course Date:** 08.03.2021  
+**Name:** Sadullah  
 **Surname:** Mutlu  
-**Email:** sadullahmutlu@gmail.com  
+**Email:** sadullahmutlu760@gmail.com  
 
 **Note:** Kodların Hepsi  .ipynb formatında jupyter lab'dan yazılmıştır.
 
