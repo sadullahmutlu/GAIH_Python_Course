@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 06.07.1998  
+**Course Date:** 08.03.2021  
 **Name:** Sadullah
 **Surname:** Mutlu  
 **Email:** sadullahmutlu@gmail.com  
