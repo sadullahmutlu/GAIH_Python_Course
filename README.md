@@ -6,7 +6,7 @@
 **Surname:** Mutlu  
 **Email:** sadullahmutlu760@gmail.com  
 
-**Note:** Kodların Hepsi  .ipynb formatında jupyter lab'dan yazılmıştır.
+**Note:** Kodların Hepsi  .py formatında yazılmıştır.
 
 ## Project Name
 Ödevleri ve Eğitim sonunda verilmiş olan Final Ödevleri
