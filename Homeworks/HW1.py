@@ -12,5 +12,6 @@ print("Multiplication list :",new_list, "\n")
 new_list.sort() #listeyi sıralayın demiyordu fakat daha düzgün gözükmesi açısından listeyi sıraladık.
 print("Sorted list :", new_list, "\n")
 
-for i in new_list:
-    print(i, ": data type of", type(new_list))
+print("New_List Data type of:",type(new_list),"\n")
+for i in new_list: 
+    print(i, ": data type of",type(i))
