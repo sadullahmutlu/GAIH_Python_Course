@@ -9,7 +9,7 @@
 **Note:** Kodların Hepsi  .py formatında yazılmıştır.
 
 ## Project Name
-Ödevleri ve Eğitim sonunda verilmiş olan Final Ödevleri
+Ödevleri ve Eğitim sonunda verilmiş olan Final Ödevleri Hepsi Tamamlanmıştır ve Düzgün Çalışmaktadır.
 
 ## Requirements
 
