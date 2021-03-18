@@ -17,4 +17,6 @@
 
 ### Certification
 ![](img/Certificate.png)
+### Top Learner Certification
+![](img/TopLearnerCertificate.png)
 
