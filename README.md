@@ -16,5 +16,5 @@
 ---
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+![](img/Certificate.png)
 
